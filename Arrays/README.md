@@ -1,4 +1,4 @@
-# 📚 Arrays - Problem Solving
+# 📚 My LeetCode Solutions
 
 A collection of Data Structures and Algorithms problems focused on the Array module.
 
@@ -7,7 +7,11 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 - Sliding Window
 - Prefix Sum
 
-### 📝 Question List:
-| # | Problem Name | Difficulty | Solution |
-|---|---|---|---|
-| 1 | Majority Element | Easy | [View Code](./Q1_MajorityElement_Easy.java) |
+## 📝 Problem List
+
+| Question # | Problem Name | Difficulty | LeetCode Link | My Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Majority Element | 🟢 Easy | [Problem](https://leetcode.com/problems/majority-element/) | [View Code](./Q1_MajorityElement_Easy.java) |
+
+---
+*Keep coding and stay consistent! 🚀*

@@ -1,5 +1,13 @@
-import java.util.Arrays;
+/**
+ * Question: Majority Element (LeetCode #169)
+ * Approach:- 1. Brute Force (Nested Loops) - O(n^2)
+ *            2. Sorting (Middle Element) - O(n log n)
+ *            3. Boyer-Moore Voting Algorithm - O(n) [Most Optimized]
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
 
+import java.util.Arrays;
 public class Q1_MajorityElement_Easy{
     public static int majorityElement(int[] nums) {
         int n = nums.length;
@@ -28,7 +36,7 @@ public class Q1_MajorityElement_Easy{
         //     }
         // }
         // return nums[0];
-
+        
         // int ele = (nums.length) / 2;
         // for(int i=0; i<nums.length; i++) {
         //     int c = 0;
