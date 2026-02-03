@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Q1MajorityElement{
+public class Q1_MajorityElement_Easy{
     public static int majorityElement(int[] nums) {
         int n = nums.length;
         int freq = 0;
