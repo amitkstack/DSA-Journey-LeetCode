@@ -30,10 +30,4 @@ public class Q2_Repeat_MissingNumber_Easy {
         }
         return arr;
     }
-    public static void main(String[] args) {
-        int n[][] = {{9,1,7}, {8,9,2}, {3,4,6}};
-        int r[] = findMissingAndRepeatedValues(n);
-        System.out.println(r[0] + " " + r[1]);
-
-    }
 }
