@@ -17,6 +17,7 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 | 4 | Single Number | 🟢 Easy | [Problem](https://leetcode.com/problems/single-number/) | [View Code](./Q4_SingleNumber_Easy.java) |
 | 5 | Best Time to Buy and Sell Stock | 🟢 Easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [View Code](./Q5_StockBuyAndSell_Easy.java) |
 | 6 | Pow(x, n)| 🟡 Medium | [Problem](https://leetcode.com/problems/powx-n/) | [View Code](./Q6_PowerXn_Medium.java) |
+| 7 | Search a 2D Matrix | 🟡 Medium | [Problem](https://leetcode.com/problems/search-a-2d-matrix/description/) | [View Code](./Q7_SearchIn2dMatrix_Medium.java) |
 
 ---
 *Keep coding and stay consistent! 🚀*
