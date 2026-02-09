@@ -5,7 +5,7 @@
  * Space Complexity: O(1)
  */
 
-public class Q5_StockBuyAndSell_Easy {
+public class Q005_StockBuyAndSell_Easy {
     public static int maxProfit(int[] arr) {
         int buyPrice = Integer.MAX_VALUE;
         int maxProfit = 0;
