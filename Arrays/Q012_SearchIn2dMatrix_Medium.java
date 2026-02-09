@@ -5,7 +5,7 @@
  * Space Complexity: O(1)
  */
 
-public class Q12_SearchIn2dMatrix_Medium {
+public class Q012_SearchIn2dMatrix_Medium {
     public boolean searchMatrix(int[][] matrix, int target) {
         for(int i=0; i<matrix.length; i++){
             for(int j=0; j<matrix[i].length; j++){
