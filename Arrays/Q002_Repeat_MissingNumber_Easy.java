@@ -6,7 +6,7 @@
  */
 
 
-public class Q2_Repeat_MissingNumber_Easy {
+public class Q002_Repeat_MissingNumber_Easy {
     public static int[] findMissingAndRepeatedValues(int[][] grid) {
         int arr[] = new int[2];
         int size = grid.length;
