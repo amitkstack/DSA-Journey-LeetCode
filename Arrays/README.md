@@ -18,8 +18,8 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 | 004 | Single Number | 🟢 Easy | [Problem](https://leetcode.com/problems/single-number/) | [View Code](./Q004_SingleNumber_Easy.java) |
 | 005 | Best Time to Buy and Sell Stock | 🟢 Easy | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [View Code](./Q005_StockBuyAndSell_Easy.java) |
 | 006 | Pow(x, n)| 🟡 Medium | [Problem](https://leetcode.com/problems/powx-n/) | [View Code](./Q006_PowerXn_Medium.java) |
-| 007 | Maximum Subarray | 🟡 Medium | [Problem](https://leetcode.com/problems/maximum-subarray/description/) | [View Code](./Q007_MaximumSubarray_Medium.java) |
-| 012 | Search a 2D Matrix | 🟡 Medium | [Problem](https://leetcode.com/problems/search-a-2d-matrix/description/) | [View Code](./Q012_SearchIn2dMatrix_Medium.java) |
+| 007 | Maximum Subarray | 🟡 Medium | [Problem](https://leetcode.com/problems/maximum-subarray/) | [View Code](./Q007_MaximumSubarray_Medium.java) |
+| 012 | Search a 2D Matrix | 🟡 Medium | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [View Code](./Q012_SearchIn2dMatrix_Medium.java) |
 
 ---
 *Keep coding and stay consistent! 🚀*
