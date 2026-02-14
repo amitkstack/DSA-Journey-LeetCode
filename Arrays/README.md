@@ -5,7 +5,6 @@ A collection of Data Structures and Algorithms problems focused on the Array mod
 ### 🧠 Concepts Covered:
 - Two Pointers Technique
 - Moore's Voting Algorithm
-- Prefix Sum
 - Kadan's Algorithm
 - Dutch National Flag Algorithm
 
