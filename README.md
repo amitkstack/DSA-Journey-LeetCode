@@ -21,7 +21,7 @@ For every problem, I follow these steps:
 4. Document the learnings.
 
 ## 🔗 Profiles
-- LeetCode - https://leetcode.com/u/amitkstack
+- LeetCode - https://leetcode.com/u/amitkstack 
 - Linkedin - https://www.linkedin.com/in/amitkstack
 
 ---
