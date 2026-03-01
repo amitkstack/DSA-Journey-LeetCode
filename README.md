@@ -7,7 +7,7 @@ Welcome to my repository where I document my daily progress in Data Structures a
 - **Total Problems Solved:** 12
 - **Goal:** Mastering Competitive Programming.
 
-## 📁 Repository Structure
+## 📁 Repository Structure 
 The problems are organized by topic and difficulty :-
 - **Easy:** Basic implementation and syntax practice.
 - **Medium:** Core logic and algorithm application.
