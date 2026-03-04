@@ -3,7 +3,7 @@
 Welcome to my repository where I document my daily progress in Data Structures and Algorithms. I use this space to track my problem-solving skills and optimize my solutions.
 
 ## 📊 Stats
-- **Language Used:** Java 
+- **Language Used:** Java
 - **Total Problems Solved:** 12
 - **Goal:** Mastering Competitive Programming.
 
