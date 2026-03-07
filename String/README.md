@@ -4,7 +4,6 @@ A collection of Data Structures and Algorithms problems focused on the String mo
 
 ### 🧠 Concepts Covered:
 - Two Pointers Technique
-- 
 
 ## 📝 Problem List
 
