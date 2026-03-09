@@ -11,7 +11,7 @@ Welcome to my repository where I document my daily progress in Data Structures a
 The problems are organized by topic and difficulty :-
 - **Easy:** Basic implementation and syntax practice.
 - **Medium:** Core logic and algorithm application.
-- **Hard:** Advanced optimization and complex data structures. 
+- **Hard:** Advanced optimization and complex data structures.  
 
 ## 🛠️ My Approach
 For every problem, I follow these steps:
