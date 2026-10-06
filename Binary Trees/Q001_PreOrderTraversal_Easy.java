@@ -1,6 +1,6 @@
 /**
  * Question: Binary Tree Preorder Traversal (LeetCode #144)
- * Approach:- perform recursive preorder traversal (Root → Left → Right). First, add the root node’s value to the list, then recursively traverse the left and right subtrees, and return the list.
+ * Approach:- Perform recursive preorder traversal (Root → Left → Right). First, add the root node’s value to the list, then recursively traverse the left and right subtrees, and return the list.
  * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
